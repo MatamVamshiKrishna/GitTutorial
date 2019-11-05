@@ -12,5 +12,10 @@ namespace GitTutorial
         {
       
         }
+
+        void Abc()
+        {
+            Console.WriteLine("ABC");
+        }
     }
 }
